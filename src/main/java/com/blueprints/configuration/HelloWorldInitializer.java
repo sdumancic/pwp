@@ -33,4 +33,8 @@ public class HelloWorldInitializer  extends AbstractAnnotationConfigDispatcherSe
 
         return new Filter[] { characterEncodingFilter};
     }
+
+
+
+
 }
